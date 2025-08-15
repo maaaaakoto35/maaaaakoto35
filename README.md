@@ -18,7 +18,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a backend engineer.
-- 📫 How to reach me: [Twitter - @maaaaakoto35](https://twitter.com/maaaaakoto35)
+- 📫 How to reach me: [Twitter - @braaaaava35](https://x.com/braaaaava35)
 <br>
 
 
