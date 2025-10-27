@@ -32,6 +32,3 @@
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maaaaakoto35&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maaaaakoto35&theme=gruvbox)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=maaaaakoto35&theme=gruvbox)
